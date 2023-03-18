@@ -5,10 +5,10 @@ using UnityEngine;
 public class Staff : MonoBehaviour
 {
     private int _id;
-    public int ID { get { return id; } set { id = value; } }
+    public int ID { get { return _id; } set { _id = value; } }
 
     private int charSkinId;
-    public int CharSkinID { get { return charSkinId} set { charSkinId = value; } }
+    public int CharSkinID { get { return charSkinId; } set { charSkinId = value; } }
     public GameObject[] charSkin;
 
     public string staffName;
@@ -28,7 +28,12 @@ public class Staff : MonoBehaviour
         for (int i = 0; i < charSkin.Length; i++ )
         {
             if (i == charSkinId)
-                charSkin
+            {
+                charSkin[i].SetActive(true);
+            }
+            else
+                charSkin[i].SetActive(false);
+                
         }
     }
 }

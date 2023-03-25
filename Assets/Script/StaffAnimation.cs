@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-public class NewBehaviourScript : MonoBehaviour
+public class StaffAnimation : MonoBehaviour
 {
     private Animator _anim;
     private Staff _staff;
@@ -19,8 +19,15 @@ public class NewBehaviourScript : MonoBehaviour
     {
        if(_staff.State == UnitState.Idle)
         {
+            Debug.Log(" idle");
             DisableAll();
             _anim.SetBool("isIdle", true);
+        }
+       if(_staff.State == UnitState.Walk)
+        {
+            Debug.Log(" walk");
+            DisableAll();
+            _anim.SetBool("isWalk", true);
         }
        
     }

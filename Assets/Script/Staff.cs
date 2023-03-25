@@ -21,8 +21,8 @@ public class Staff : MonoBehaviour
     public string staffName;
     public int dailyWage;
     //Animation
-    [SerializeField] private UnitState state;
-    public UnitState State { get { return state; } set { state = value; }  }
+    [SerializeField] private UnitState _state;
+    public UnitState State { get { return _state; } set { _state = value; }  }
 
     //Nav Staff
     [SerializeField] private NavMeshAgent navAgent;
@@ -62,7 +62,7 @@ public class Staff : MonoBehaviour
         float dist = Vector3.Distance(transform.position, navAgent.destination);
         if(dist<=3f)
         {
-            state = UnitState.Idle;
+            _state = UnitState.Idle;
             navAgent.isStopped = true;
         }
 
@@ -71,7 +71,7 @@ public class Staff : MonoBehaviour
     public void SetToWalk(Vector3 dest)
     {
         // To state walk
-        state = UnitState.Walk;
+        _state = UnitState.Walk;
 
         //Acutlly move
         navAgent.SetDestination(dest);

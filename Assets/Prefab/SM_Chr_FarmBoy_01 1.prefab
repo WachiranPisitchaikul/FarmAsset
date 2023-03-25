@@ -1168,6 +1168,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4596640331168922}
   - component: {fileID: 95672999797837872}
+  - component: {fileID: 348819024779077169}
   - component: {fileID: 2780169656691225361}
   - component: {fileID: 8031480607499527539}
   m_Layer: 0
@@ -1219,6 +1220,18 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &348819024779077169
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1674885529865632}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ad5dba660169ab4882391741e05a29f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &2780169656691225361
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1239,7 +1252,7 @@ MonoBehaviour:
   - {fileID: 1772410112290960}
   staffName: John
   dailyWage: 0
-  state: 0
+  _state: 0
   navAgent: {fileID: 8031480607499527539}
 --- !u!195 &8031480607499527539
 NavMeshAgent:

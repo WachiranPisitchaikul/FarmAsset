@@ -63,7 +63,7 @@ public class StaffAnimation : MonoBehaviour
 
     private void DisableAll()
     {
-        _anim.SetBool("isIdle", true);
+        _anim.SetBool("isIdle", false);
         _anim.SetBool("isWalk", false);
         _anim.SetBool("isHarvest", false);
         _anim.SetBool("isSow", false);

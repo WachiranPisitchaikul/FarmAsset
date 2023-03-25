@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class Staff : MonoBehaviour
 {
     private int _id;
@@ -14,7 +15,7 @@ public class Staff : MonoBehaviour
     public string staffName;
     public int dailyWage;
 
-
+    
     public void InitCharID(int id)
     {
         _id = id;

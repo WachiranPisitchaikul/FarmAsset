@@ -27,4 +27,22 @@ public class TestScene : MonoBehaviour
     {
         _staff.State = UnitState.Walk;
     }
+
+    public void Buttonharvest()
+    {
+        _staff.State = UnitState.Harvest;
+    }
+    public void ButtonSow()
+    {
+        _staff.State = UnitState.Sow;
+
+    }
+    public void ButtonPlow()
+    {
+        _staff.State = UnitState.Plow;
+    }
+    public void ButtonWater()
+    {
+        _staff.State = UnitState.Water;
+    }
 }

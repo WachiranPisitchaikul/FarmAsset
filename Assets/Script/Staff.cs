@@ -6,7 +6,11 @@ using UnityEngine.AI;
 public enum UnitState
 {
     Idle,
-    Walk
+    Walk,
+    Harvest,
+    Sow,
+    Plow,
+    Water
 }
 
 public class Staff : MonoBehaviour

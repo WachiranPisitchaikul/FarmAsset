@@ -1,83 +1,24 @@
-fileFormatVersion: 2
-guid: 8209a5322a73a48478b493302003a9cd
-timeCreated: 1556667336
-licenseType: Store
-ModelImporter:
-  serializedVersion: 19
-  fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: SM_Prop_PlantBox_Large_01
-    9500000: //RootNode
-  materials:
-    importMaterials: 0
-    materialName: 0
-    materialSearch: 1
-  animations:
-    legacyGenerateAnimations: 4
-    bakeSimulation: 0
-    resampleCurves: 1
-    optimizeGameObjects: 0
-    motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: 
-    animationImportErrors: 
-    animationImportWarnings: 
-    animationRetargetingWarnings: 
-    animationDoRetargetingWarnings: 0
-    animationCompression: 1
-    animationRotationError: 0.5
-    animationPositionError: 0.5
-    animationScaleError: 0.5
-    animationWrapMode: 0
-    extraExposedTransformPaths: []
-    clipAnimations: []
-    isReadable: 0
-  meshes:
-    lODScreenPercentages: []
-    globalScale: 1
-    meshCompression: 0
-    addColliders: 0
-    importBlendShapes: 0
-    swapUVChannels: 0
-    generateSecondaryUV: 0
-    useFileUnits: 1
-    optimizeMeshForGPU: 1
-    keepQuads: 0
-    weldVertices: 1
-    secondaryUVAngleDistortion: 8
-    secondaryUVAreaDistortion: 15.000001
-    secondaryUVHardAngle: 88
-    secondaryUVPackMargin: 4
-    useFileScale: 1
-  tangentSpace:
-    normalSmoothAngle: 5
-    normalImportMode: 1
-    tangentImportMode: 3
-  importAnimation: 0
-  copyAvatar: 0
-  humanDescription:
-    serializedVersion: 2
-    human: []
-    skeleton: []
-    armTwist: 0.5
-    foreArmTwist: 0.5
-    upperLegTwist: 0.5
-    legTwist: 0.5
-    armStretch: 0.05
-    legStretch: 0.05
-    feetSpacing: 0
-    rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
-    hasTranslationDoF: 0
-    hasExtraRoot: 0
-    skeletonHasParents: 1
-  lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
-  humanoidOversampling: 1
-  additionalBone: 0
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+Library\Bee\artifacts\mvdfrm\Unity.Services.Core.Configuration.Editor.ref.dll_FF09FAD520872032.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Services.Core.Internal.ref.dll_A02B3542C15F550A.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Services.Core.Networking.ref.dll_9223E05EC4657081.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Services.Core.Telemetry.ref.dll_FA20132DD923A4D2.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Services.Core.ref.dll_131AC9C5EC6E6517.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEditor.TestRunner.ref.dll_193EC4CE382CBFB3.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEditor.UI.ref.dll_4C98D3F7040CD4F5.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.TestRunner.ref.dll_E55D0F7C63F01D9E.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.UI.ref.dll_08FEAA520A2EFD60.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Plastic.Antlr3.Runtime.dll_98D99684C5BC2BCB.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Plastic.Newtonsoft.Json.dll_3295A8E541D6533A.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.IonicZip.dll_2522BC96CD421995.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.YamlDotNet.dll_EEE6317F89224077.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.TextureAssets.dll_86045AD349EF9E6F.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Antlr3.Runtime.dll_A0535860B9EB5096.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEditor.Graphs.dll_B13857CF6B647FE2.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEditor.CoreModule.dll_F1AF3067332BA5B0.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEditor.DeviceSimulatorModule.dll_0BCC777D0C046711.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEditor.DiagnosticsModule.dll_ABDDEDD0EB2EED1F.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEditor.dll_DB05EC16BFE614E5.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEditor.GraphViewModule.dll_8A500624A2972316.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEditor.PackageManagerUIModule.dll_E6F75C5C512D970C.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEditor.QuickSearchModule.dll_36ED6EDE4405E978.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity

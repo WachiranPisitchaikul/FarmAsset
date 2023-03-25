@@ -19,7 +19,7 @@ public class GameManager : MonoBehaviour
     }
     public void Generatecandidate()
     {
-        for(int i = 0; i <20;i++)
+        for(int i = 0; i < 20;i++)
         {
             GameObject staffObj = Instantiate(staffPrefab, staffParent.transform);
             Staff s = staffObj.GetComponent<Staff>();

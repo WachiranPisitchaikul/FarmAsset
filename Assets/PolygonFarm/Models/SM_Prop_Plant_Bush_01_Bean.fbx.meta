@@ -1,83 +1,24 @@
-fileFormatVersion: 2
-guid: 5239853707b566a4bb700d1cf70b9c31
-timeCreated: 1555552089
-licenseType: Store
-ModelImporter:
-  serializedVersion: 19
-  fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: SM_Prop_Plant_Bush_01_Bean
-    9500000: //RootNode
-  materials:
-    importMaterials: 0
-    materialName: 0
-    materialSearch: 1
-  animations:
-    legacyGenerateAnimations: 4
-    bakeSimulation: 0
-    resampleCurves: 1
-    optimizeGameObjects: 0
-    motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: 
-    animationImportErrors: 
-    animationImportWarnings: 
-    animationRetargetingWarnings: 
-    animationDoRetargetingWarnings: 0
-    animationCompression: 1
-    animationRotationError: 0.5
-    animationPositionError: 0.5
-    animationScaleError: 0.5
-    animationWrapMode: 0
-    extraExposedTransformPaths: []
-    clipAnimations: []
-    isReadable: 0
-  meshes:
-    lODScreenPercentages: []
-    globalScale: 1
-    meshCompression: 0
-    addColliders: 0
-    importBlendShapes: 0
-    swapUVChannels: 0
-    generateSecondaryUV: 0
-    useFileUnits: 1
-    optimizeMeshForGPU: 1
-    keepQuads: 0
-    weldVertices: 1
-    secondaryUVAngleDistortion: 8
-    secondaryUVAreaDistortion: 15.000001
-    secondaryUVHardAngle: 88
-    secondaryUVPackMargin: 4
-    useFileScale: 1
-  tangentSpace:
-    normalSmoothAngle: 5
-    normalImportMode: 1
-    tangentImportMode: 3
-  importAnimation: 0
-  copyAvatar: 0
-  humanDescription:
-    serializedVersion: 2
-    human: []
-    skeleton: []
-    armTwist: 0.5
-    foreArmTwist: 0.5
-    upperLegTwist: 0.5
-    legTwist: 0.5
-    armStretch: 0.05
-    legStretch: 0.05
-    feetSpacing: 0
-    rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
-    hasTranslationDoF: 0
-    hasExtraRoot: 0
-    skeletonHasParents: 1
-  lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
-  humanoidOversampling: 1
-  additionalBone: 0
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+88861E.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.GridModule.dll_F2411FA7F385A6D2.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.HotReloadModule.dll_DA1E40535827133E.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.ImageConversionModule.dll_7D6B379EFDE42C89.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.IMGUIModule.dll_4ECA9A2543309D8F.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.InputLegacyModule.dll_0C1BBCEE3E5E545B.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.InputModule.dll_7CE0C26EF3372E52.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.JSONSerializeModule.dll_B1581BDBDEE10F20.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.LocalizationModule.dll_9FF4B1D1FD16F225.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.NVIDIAModule.dll_590ACCAAEF2DBEA7.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.ParticleSystemModule.dll_820E1C0850ACC6E1.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.PerformanceReportingModule.dll_F04828999A8A409A.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.Physics2DModule.dll_A57B723E1DF0EF51.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.PhysicsModule.dll_94F66A271EC2D63F.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.ProfilerModule.dll_8C7153177BBEC4C5.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll_BA063F0D18FA821A.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.ScreenCaptureModule.dll_CB3FC960F34D3B82.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.SharedInternalsModule.dll_017C7674751227D9.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.SpriteMaskModule.dll_048E44D446D3EC2D.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.SpriteShapeModule.dll_9437CF2A5C0ED674.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.StreamingModule.dll_0D6A6F9DCC7BAEFA.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.SubstanceModule.dll_EA1583E717CEAD08.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.SubsystemsModule.dll_6F3BAB36151BD440.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.TerrainModule.dll_AF3CE595F4811F2

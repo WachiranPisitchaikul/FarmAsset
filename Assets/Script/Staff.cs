@@ -2,6 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+public enum UnitState
+{
+    Idle,
+    Walk
+}
 
 public class Staff : MonoBehaviour
 {
@@ -15,7 +20,8 @@ public class Staff : MonoBehaviour
     public string staffName;
     public int dailyWage;
 
-    
+    [SerializeField] private UnitState state;
+    public UnitState State { get; private set; }
     public void InitCharID(int id)
     {
         _id = id;
